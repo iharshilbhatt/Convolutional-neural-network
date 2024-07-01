@@ -37,4 +37,7 @@ You can install these libraries using pip:
 
 ```bash
 pip install numpy pandas matplotlib keras tensorflow scikit-learn
+```
+
+Feel free to modify the content according to your project's specifics and preferences.
 
